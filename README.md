@@ -61,10 +61,6 @@ forge install openzeppelin/openzeppelin-contracts@v4.8.3 --no-commit
 
 * TODO: Makefile
 
-## Authors
-
-Aleksandr Rybin  
-
 ## Version History
 
 * 0.1
