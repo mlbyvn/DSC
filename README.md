@@ -56,12 +56,3 @@ forge install smartcontractkit/chainlink-brownie-contracts --no-commit
 ```
 forge install openzeppelin/openzeppelin-contracts@v4.8.3 --no-commit
 ```
-
-### Executing program
-
-* TODO: Makefile
-
-## Version History
-
-* 0.1
-    * Initial Release
