@@ -10,7 +10,6 @@ import {OracleLib} from "./libraries/OracleLib.sol";
 
 /**
  * @title DSCEngine
- * @author Aleksandr Rybin
  *
  * The system is designed to be as minimal as possible, and have the tokens maintain a 1 token == 1$ peg
  * This stable coin has the properties:
