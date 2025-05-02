@@ -7,7 +7,6 @@ import {Ownable} from "../lib/openzeppelin-contracts/contracts/access/Ownable.so
 
 /**
  * @title DecentralizedStableCoin
- * @author Aleksandr Rybin
  * Collateral: Exogenous (ETH & BTC)
  * Minting: Algorithmic
  * Relative Stability: pegged to USD
